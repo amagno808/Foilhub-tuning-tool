@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root { color-scheme: light; }
-
-body {
-  @apply bg-foilhub-foam text-foilhub-ink;
-}
